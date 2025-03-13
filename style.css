@@ -708,7 +708,7 @@ html:not(.is-scrolled):not(.is-menu-open) .home-page .header a.is-active {
 .main-section__inner {
   /* height: 100vh; */
   /* height: 100svh; */
-  min-height: 560px;
+  min-height: 500px;
   display: flex;
   align-items: center;
   position: relative;
@@ -734,15 +734,16 @@ html:not(.is-scrolled):not(.is-menu-open) .home-page .header a.is-active {
   height: auto;
 }
 
-.main-section__title {
+/* .main-section__title {
   width: min-content;
-}
+} */
 
 .main-section__title h1 {
   font-size: 60px;
   line-height: 1.2;
   font-weight: 600;
-  margin: 0;
+  margin: 0 auto;
+  text-align: center;
   text-transform: uppercase;
 }
 
