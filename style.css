@@ -706,7 +706,7 @@ html:not(.is-scrolled):not(.is-menu-open) .home-page .header a.is-active {
 }
 
 .main-section__inner {
-  height: 45vh;
+  height: 50vh;
   /* height: 100svh; */
   min-height: 500px;
   display: flex;
