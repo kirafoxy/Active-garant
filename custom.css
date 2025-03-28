@@ -117,10 +117,10 @@
     overflow: hidden;
     
 }
-.main-container{
+/* .main-container{
     padding-top: 100px !important;
     padding-bottom: 100px !important;
-}
+} */
 
 .accordion-container label {
     cursor: pointer;
